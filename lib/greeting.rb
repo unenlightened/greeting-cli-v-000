@@ -1,1 +1,3 @@
-# code the #greeting method here!
+def greeting(name)
+  n
+end# code the #greeting method here!
